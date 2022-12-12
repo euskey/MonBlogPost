@@ -23,3 +23,15 @@ body
     font-size: 20px;
 }
 
+#cabecera
+{
+    background-color: rgb(136, 157, 216);
+
+}
+
+#tagline
+{
+    color: rgb(238, 237, 240);
+    font-weight: bold;
+
+}
